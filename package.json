@@ -1,0 +1,14 @@
+{
+  "name": "dmbj",
+  "version": "1.0.0",
+  "description": "抓取《盗墓笔记重启》的全文数据",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
